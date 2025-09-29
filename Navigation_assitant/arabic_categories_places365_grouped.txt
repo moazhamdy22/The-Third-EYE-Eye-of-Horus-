@@ -1,0 +1,365 @@
+/a/airfield TransportHub/Airport محور_نقل/مطار مطار 0
+/a/airplane_cabin VehicleInterior داخل_مركبة مقصورة طائرة 1
+/a/airport_terminal TransportHub/Airport محور_نقل/مطار مبنى مطار 2
+/a/alcove IndoorResidential سكني_داخلي كوة 3
+/a/alley OutdoorUrban حضري_خارجي زقاق 4
+/a/amphitheater Cultural/Entertainment ثقافي/ترفيهي مدرج 5
+/a/amusement_arcade Cultural/Entertainment ثقافي/ترفيهي صالة ألعاب ترفيهية 6
+/a/amusement_park Cultural/Entertainment ثقافي/ترفيهي مدينة ملاهي 7
+/a/apartment_building/outdoor OutdoorUrban حضري_خارجي مبنى سكني/خارجي 8
+/a/aquarium Cultural/Entertainment ثقافي/ترفيهي حوض سمك 9
+/a/aqueduct OutdoorInfrastructure بنية_تحتية_خارجية قناة مائية 10
+/a/arcade IndoorPublic عام_داخلي رواق 11
+/a/arch OutdoorStructure هيكل_خارجي قوس 12
+/a/archaelogical_excavation OutdoorSite موقع_خارجي موقع تنقيب أثري 13
+/a/archive Workplace/Office مكان_عمل/مكتب أرشيف 14
+/a/arena/hockey SportsVenue مكان_رياضي ساحة/هوكي 15
+/a/arena/performance Cultural/Entertainment ثقافي/ترفيهي ساحة/عروض 16
+/a/arena/rodeo SportsVenue مكان_رياضي ساحة/روديو 17
+/a/army_base OutdoorInfrastructure بنية_تحتية_خارجية قاعدة عسكرية 18
+/a/art_gallery Cultural/Entertainment ثقافي/ترفيهي معرض فني 19
+/a/art_school EducationalFacility منشأة_تعليمية مدرسة فنون 20
+/a/art_studio Workplace/Office مكان_عمل/مكتب استوديو فني 21
+/a/artists_loft IndoorResidential سكني_داخلي مرسم الفنانين 22
+/a/assembly_line Industrial/Workshop صناعي/ورشة خط تجميع 23
+/a/athletic_field/outdoor SportsVenue مكان_رياضي ملعب رياضي/خارجي 24
+/a/atrium/public IndoorPublic عام_داخلي بهو/عام 25
+/a/attic IndoorResidential سكني_داخلي علية 26
+/a/auditorium Cultural/Entertainment ثقافي/ترفيهي قاعة محاضرات 27
+/a/auto_factory Industrial/Workshop صناعي/ورشة مصنع سيارات 28
+/a/auto_showroom Retail/Shop متجر/تجاري معرض سيارات 29
+/b/badlands NaturalGeological جيولوجي_طبيعي أراض قاحلة 30
+/b/bakery/shop FoodDining/Retail طعام_شراب/متجر مخبز/محل 31
+/b/balcony/exterior OutdoorStructure هيكل_خارجي شرفة/خارجية 32
+/b/balcony/interior IndoorResidential سكني_داخلي شرفة/داخلية 33
+/b/ball_pit Cultural/Entertainment ثقافي/ترفيهي حفرة كرات 34
+/b/ballroom IndoorPublic عام_داخلي قاعة رقص 35
+/b/bamboo_forest NaturalOutdoor طبيعي_خارجي غابة الخيزران 36
+/b/bank_vault IndoorSecure آمن_داخلي خزانة بنك 37
+/b/banquet_hall IndoorPublic عام_داخلي قاعة ولائم 38
+/b/bar FoodDiningVenue مكان_طعام/شراب حانة 39
+/b/barn OutdoorStructure هيكل_خارجي حظيرة 40
+/b/barndoor OutdoorStructure هيكل_خارجي باب الحظيرة 41
+/b/baseball_field SportsVenue مكان_رياضي ملعب بيسبول 42
+/b/basement IndoorResidential سكني_داخلي قبو 43
+/b/basketball_court/indoor SportsVenue مكان_رياضي ملعب كرة سلة/داخلي 44
+/b/bathroom IndoorResidential سكني_داخلي حمام 45
+/b/bazaar/indoor Retail/Shop متجر/تجاري سوق/داخلي 46
+/b/bazaar/outdoor Retail/Shop متجر/تجاري سوق/خارجي 47
+/b/beach NaturalOutdoor طبيعي_خارجي شاطئ 48
+/b/beach_house IndoorResidential سكني_داخلي منزل على الشاطئ 49
+/b/beauty_salon Retail/Shop متجر/تجاري صالون تجميل 50
+/b/bedchamber IndoorResidential سكني_داخلي حجرة نوم 51
+/b/bedroom IndoorResidential سكني_داخلي غرفة نوم 52
+/b/beer_garden FoodDiningVenue مكان_طعام/شراب حديقة بيرة 53
+/b/beer_hall FoodDiningVenue مكان_طعام/شراب قاعة بيرة 54
+/b/berth TransportHub/Water محور_نقل/مائي مرسى 55
+/b/biology_laboratory Workplace/Lab مكان_عمل/مختبر مختبر علم الأحياء 56
+/b/boardwalk OutdoorUrban حضري_خارجي ممشى خشبي 57
+/b/boat_deck VehicleExterior خارج_مركبة سطح السفينة 58
+/b/boathouse OutdoorStructure هيكل_خارجي بيت القوارب 59
+/b/bookstore Retail/Shop متجر/تجاري مكتبة 60
+/b/booth/indoor IndoorPublic عام_داخلي كشك/داخلي 61
+/b/botanical_garden NaturalOutdoor طبيعي_خارجي حديقة نباتية 62
+/b/bow_window/indoor IndoorResidential سكني_داخلي نافذة مقوسة/داخلية 63
+/b/bowling_alley SportsVenue مكان_رياضي صالة بولينج 64
+/b/boxing_ring SportsVenue مكان_رياضي حلبة ملاكمة 65
+/b/bridge OutdoorInfrastructure بنية_تحتية_خارجية جسر 66
+/b/building_facade OutdoorUrban حضري_خارجي واجهة مبنى 67
+/b/bullring SportsVenue مكان_رياضي حلبة مصارعة الثيران 68
+/b/burial_chamber IndoorHistoric تاريخي_داخلي حجرة دفن 69
+/b/bus_interior VehicleInterior داخل_مركبة داخل الحافلة 70
+/b/bus_station/indoor TransportHub/Urban محور_نقل/حضري محطة حافلات/داخلية 71
+/b/butchers_shop FoodDining/Retail طعام_شراب/متجر محل جزارة 72
+/b/butte NaturalGeological جيولوجي_طبيعي تل 73
+/c/cabin/outdoor OutdoorStructure هيكل_خارجي كوخ/خارجي 74
+/c/cafeteria FoodDiningVenue مكان_طعام/شراب كافتيريا 75
+/c/campsite OutdoorRecreation ترفيه_خارجي مخيم 76
+/c/campus EducationalFacility منشأة_تعليمية حرم جامعي 77
+/c/canal/natural NaturalWaterFeature مائي_طبيعي قناة/طبيعية 78
+/c/canal/urban OutdoorInfrastructure بنية_تحتية_خارجية قناة/مدنية 79
+/c/candy_store FoodDining/Retail طعام_شراب/متجر محل حلويات 80
+/c/canyon NaturalGeological جيولوجي_طبيعي واد 81
+/c/car_interior VehicleInterior داخل_مركبة داخل السيارة 82
+/c/carrousel Cultural/Entertainment ثقافي/ترفيهي دائرة الخيل 83
+/c/castle IndoorHistoric تاريخي_داخلي قلعة 84
+/c/catacomb IndoorHistoric تاريخي_داخلي سرداب 85
+/c/cemetery OutdoorSite موقع_خارجي مقبرة 86
+/c/chalet IndoorResidential سكني_داخلي شاليه 87
+/c/chemistry_lab Workplace/Lab مكان_عمل/مختبر مختبر كيمياء 88
+/c/childs_room IndoorResidential سكني_داخلي غرفة أطفال 89
+/c/church/indoor ReligiousVenue مكان_ديني كنيسة/داخلية 90
+/c/church/outdoor ReligiousVenue مكان_ديني كنيسة/خارجية 91
+/c/classroom EducationalFacility منشأة_تعليمية فصل دراسي 92
+/c/clean_room Workplace/Lab مكان_عمل/مختبر غرفة نظيفة 93
+/c/cliff NaturalGeological جيولوجي_طبيعي جرف 94
+/c/closet IndoorResidential سكني_داخلي خزانة ملابس 95
+/c/clothing_store Retail/Shop متجر/تجاري محل ملابس 96
+/c/coast NaturalOutdoor طبيعي_خارجي ساحل 97
+/c/cockpit VehicleInterior داخل_مركبة مقصورة القيادة 98
+/c/coffee_shop FoodDiningVenue مكان_طعام/شراب مقهى 99
+/c/computer_room Workplace/Office مكان_عمل/مكتب غرفة الكمبيوتر 100
+/c/conference_center Workplace/Office مكان_عمل/مكتب مركز مؤتمرات 101
+/c/conference_room Workplace/Office مكان_عمل/مكتب غرفة اجتماعات 102
+/c/construction_site Industrial/Workshop صناعي/ورشة موقع بناء 103
+/c/corn_field NaturalAgricultural زراعي_طبيعي حقل ذرة 104
+/c/corral OutdoorAgricultural زراعي_خارجي حظيرة ماشية 105
+/c/corridor IndoorPublic عام_داخلي ممر 106
+/c/cottage IndoorResidential سكني_داخلي كوخ 107
+/c/courthouse IndoorPublic عام_داخلي مبنى المحكمة 108
+/c/courtyard OutdoorUrban حضري_خارجي فناء 109
+/c/creek NaturalWaterFeature مائي_طبيعي جدول 110
+/c/crevasse NaturalGeological جيولوجي_طبيعي شق جليدي 111
+/c/crosswalk OutdoorUrban حضري_خارجي معبر مشاة 112
+/d/dam OutdoorInfrastructure بنية_تحتية_خارجية سد 113
+/d/delicatessen FoodDining/Retail طعام_شراب/متجر محل بقالة 114
+/d/department_store Retail/Shop متجر/تجاري متجر متعدد الأقسام 115
+/d/desert/sand NaturalOutdoor طبيعي_خارجي صحراء/رمال 116
+/d/desert/vegetation NaturalOutdoor طبيعي_خارجي صحراء/نباتات 117
+/d/desert_road OutdoorTransport طريق_خارجي طريق صحراوي 118
+/d/diner/outdoor FoodDiningVenue مكان_طعام/شراب مطعم/خارجي 119
+/d/dining_hall FoodDiningVenue مكان_طعام/شراب قاعة طعام 120
+/d/dining_room IndoorResidential سكني_داخلي غرفة طعام 121
+/d/discotheque Cultural/Entertainment ثقافي/ترفيهي ديسكو 122
+/d/doorway/outdoor OutdoorStructure هيكل_خارجي مدخل/خارجي 123
+/d/dorm_room IndoorResidential سكني_داخلي غرفة سكن 124
+/d/downtown OutdoorUrban حضري_خارجي وسط المدينة 125
+/d/dressing_room IndoorPublic عام_داخلي غرفة تغيير الملابس 126
+/d/driveway OutdoorUrban حضري_خارجي ممر سيارات 127
+/d/drugstore Retail/Shop متجر/تجاري صيدلية 128
+/e/elevator/door Door 129 باب باب
+/e/elevator_lobby IndoorPublic عام_داخلي ردهة المصعد 130
+/e/elevator_shaft IndoorStructure هيكل_داخلي بئر المصعد 131
+/e/embassy IndoorPublic عام_داخلي سفارة 132
+/e/engine_room Industrial/Workshop صناعي/ورشة غرفة المحرك 133
+/e/entrance_hall IndoorPublic عام_داخلي قاعة المدخل 134
+/e/escalator/indoor IndoorTransport نقل_داخلي سلم متحرك/داخلي 135
+/e/excavation OutdoorSite موقع_خارجي حفريات 136
+/f/fabric_store Retail/Shop متجر/تجاري محل أقمشة 137
+/f/farm OutdoorAgricultural زراعي_خارجي مزرعة 138
+/f/fastfood_restaurant FoodDiningVenue مكان_طعام/شراب مطعم وجبات سريعة 139
+/f/field/cultivated NaturalAgricultural زراعي_طبيعي حقل/مزروع 140
+/f/field/wild NaturalOutdoor طبيعي_خارجي حقل/بري 141
+/f/field_road OutdoorTransport طريق_خارجي طريق الحقل 142
+/f/fire_escape OutdoorStructure هيكل_خارجي مخرج الطوارئ 143
+/f/fire_station IndoorPublic عام_داخلي محطة إطفاء 144
+/f/fishpond NaturalWaterFeature مائي_طبيعي بركة سمك 145
+/f/flea_market/indoor Retail/Shop متجر/تجاري سوق للسلع المستعملة/داخلي 146
+/f/florist_shop/indoor Retail/Shop متجر/تجاري محل بيع الزهور/داخلي 147
+/f/food_court FoodDiningVenue مكان_طعام/شراب منطقة المطاعم 148
+/f/football_field SportsVenue مكان_رياضي ملعب كرة القدم الأمريكية 149
+/f/forest/broadleaf NaturalOutdoor طبيعي_خارجي غابة/نفضية 150
+/f/forest_path OutdoorNaturalPath مسار_طبيعي_خارجي طريق الغابة 151
+/f/forest_road OutdoorTransport طريق_خارجي طريق الغابة 152
+/f/formal_garden NaturalOutdoor طبيعي_خارجي حديقة رسمية 153
+/f/fountain OutdoorUrban حضري_خارجي نافورة 154
+/g/galley VehicleInterior داخل_مركبة مطبخ السفينة 155
+/g/garage/indoor IndoorResidential سكني_داخلي مرآب/داخلي 156
+/g/garage/outdoor OutdoorStructure هيكل_خارجي مرآب/خارجي 157
+/g/gas_station OutdoorInfrastructure بنية_تحتية_خارجية محطة وقود 158
+/g/gazebo/exterior OutdoorStructure هيكل_خارجي شرفة مراقبة/خارجية 159
+/g/general_store/indoor Retail/Shop متجر/تجاري متجر عام/داخلي 160
+/g/general_store/outdoor Retail/Shop متجر/تجاري متجر عام/خارجي 161
+/g/gift_shop Retail/Shop متجر/تجاري محل هدايا 162
+/g/glacier NaturalGeological جيولوجي_طبيعي نهر جليدي 163
+/g/golf_course SportsVenue مكان_رياضي ملعب غولف 164
+/g/greenhouse/indoor NaturalAgricultural زراعي_طبيعي دفيئة/داخلية 165
+/g/greenhouse/outdoor NaturalAgricultural زراعي_طبيعي دفيئة/خارجية 166
+/g/grotto NaturalGeological جيولوجي_طبيعي كهف 167
+/g/gymnasium/indoor SportsVenue مكان_رياضي صالة ألعاب رياضية/داخلية 168
+/h/hangar/indoor TransportHub/Airport محور_نقل/مطار حظيرة طائرات/داخلية 169
+/h/hangar/outdoor TransportHub/Airport محور_نقل/مطار حظيرة طائرات/خارجية 170
+/h/harbor TransportHub/Water محور_نقل/مائي ميناء 171
+/h/hardware_store Retail/Shop متجر/تجاري محل أدوات 172
+/h/hayfield NaturalAgricultural زراعي_طبيعي حقل قش 173
+/h/heliport TransportHub/Airport محور_نقل/مطار مهبط طائرات الهليكوبتر 174
+/h/highway OutdoorTransport طريق_خارجي طريق سريع 175
+/h/home_office IndoorResidential سكني_داخلي مكتب منزلي 176
+/h/home_theater IndoorResidential سكني_داخلي مسرح منزلي 177
+/h/hospital MedicalFacility منشأة_طبية مستشفى 178
+/h/hospital_room MedicalFacility منشأة_طبية غرفة في المستشفى 179
+/h/hot_spring NaturalWaterFeature مائي_طبيعي ينبوع حار 180
+/h/hotel/outdoor OutdoorUrban حضري_خارجي فندق/خارجي 181
+/h/hotel_room IndoorResidential سكني_داخلي غرفة فندق 182
+/h/house IndoorResidential سكني_داخلي منزل 183
+/h/hunting_lodge/outdoor OutdoorStructure هيكل_خارجي نزل صيد/خارجي 184
+/i/ice_cream_parlor FoodDining/Retail طعام_شراب/متجر محل آيس كريم 185
+/i/ice_floe NaturalWaterFeature مائي_طبيعي طافية جليدية 186
+/i/ice_shelf NaturalGeological جيولوجي_طبيعي جرف جليدي 187
+/i/ice_skating_rink/indoor SportsVenue مكان_رياضي حلبة تزلج/داخلية 188
+/i/ice_skating_rink/outdoor SportsVenue مكان_رياضي حلبة تزلج/خارجية 189
+/i/iceberg NaturalWaterFeature مائي_طبيعي جبل جليدي 190
+/i/igloo OutdoorStructure هيكل_خارجي كوخ ثلجي 191
+/i/industrial_area Industrial/Workshop صناعي/ورشة منطقة صناعية 192
+/i/inn/outdoor OutdoorUrban حضري_خارجي فندق صغير/خارجي 193
+/i/islet NaturalGeological جيولوجي_طبيعي جزيرة صغيرة 194
+/j/jacuzzi/indoor IndoorResidential سكني_داخلي جاكوزي/داخلي 195
+/j/jail_cell IndoorSecure آمن_داخلي زنزانة 196
+/j/japanese_garden NaturalOutdoor طبيعي_خارجي حديقة يابانية 197
+/j/jewelry_shop Retail/Shop متجر/تجاري محل مجوهرات 198
+/j/junkyard Industrial/Workshop صناعي/ورشة ساحة خردة 199
+/k/kasbah IndoorHistoric تاريخي_داخلي قصبة 200
+/k/kennel/outdoor OutdoorAgricultural زراعي_خارجي بيت الكلب/خارجي 201
+/k/kindergarden_classroom EducationalFacility منشأة_تعليمية فصل رياض الأطفال 202
+/k/kitchen IndoorResidential سكني_داخلي مطبخ 203
+/l/lagoon NaturalWaterFeature مائي_طبيعي بحيرة شاطئية 204
+/l/lake/natural NaturalWaterFeature مائي_طبيعي بحيرة/طبيعية 205
+/l/landfill Industrial/Workshop صناعي/ورشة مكب نفايات 206
+/l/landing_deck VehicleExterior خارج_مركبة سطح هبوط 207
+/l/laundromat Retail/Shop متجر/تجاري مغسلة 208
+/l/lawn NaturalOutdoor طبيعي_خارجي مرج 209
+/l/lecture_room EducationalFacility منشأة_تعليمية قاعة محاضرات 210
+/l/legislative_chamber IndoorPublic عام_داخلي قاعة تشريعية 211
+/l/library/indoor Cultural/Entertainment ثقافي/ترفيهي مكتبة/داخلية 212
+/l/library/outdoor Cultural/Entertainment ثقافي/ترفيهي مكتبة/خارجية 213
+/l/lighthouse OutdoorStructure هيكل_خارجي منارة 214
+/l/living_room IndoorResidential سكني_داخلي غرفة معيشة 215
+/l/loading_dock Industrial/Workshop صناعي/ورشة رصيف شحن 216
+/l/lobby IndoorPublic عام_داخلي ردهة 217
+/l/lock_chamber OutdoorInfrastructure بنية_تحتية_خارجية غرفة القفل 218
+/l/locker_room IndoorPublic عام_داخلي غرفة تغيير الملابس 219
+/m/mansion IndoorResidential سكني_داخلي قصر 220
+/m/manufactured_home IndoorResidential سكني_داخلي منزل جاهز 221
+/m/market/indoor Retail/Shop متجر/تجاري سوق/داخلي 222
+/m/market/outdoor Retail/Shop متجر/تجاري سوق/خارجي 223
+/m/marsh NaturalOutdoor طبيعي_خارجي مستنقع 224
+/m/martial_arts_gym SportsVenue مكان_رياضي صالة فنون قتالية 225
+/m/mausoleum IndoorHistoric تاريخي_داخلي ضريح 226
+/m/medina OutdoorUrban حضري_خارجي مدينة 227
+/m/mezzanine IndoorStructure هيكل_داخلي طابق نصفي 228
+/m/moat/water OutdoorInfrastructure بنية_تحتية_خارجية خندق/مائي 229
+/m/mosque/outdoor ReligiousVenue مكان_ديني مسجد/خارجي 230
+/m/motel IndoorResidential سكني_داخلي موتيل 231
+/m/mountain NaturalGeological جيولوجي_طبيعي جبل 232
+/m/mountain_path OutdoorNaturalPath مسار_طبيعي_خارجي طريق جبلي 233
+/m/mountain_snowy NaturalGeological جيولوجي_طبيعي جبل ثلجي 234
+/m/movie_theater/indoor Cultural/Entertainment ثقافي/ترفيهي دار سينما/داخلية 235
+/m/museum/indoor Cultural/Entertainment ثقافي/ترفيهي متحف/داخلي 236
+/m/museum/outdoor Cultural/Entertainment ثقافي/ترفيهي متحف/خارجي 237
+/m/music_studio Workplace/Office مكان_عمل/مكتب استوديو موسيقى 238
+/n/natural_history_museum Cultural/Entertainment ثقافي/ترفيهي متحف التاريخ الطبيعي 239
+/n/nursery IndoorResidential سكني_داخلي حضانة 240
+/n/nursing_home MedicalFacility منشأة_طبية دار رعاية المسنين 241
+/o/oast_house OutdoorAgricultural زراعي_خارجي مجفف الشعير 242
+/o/ocean NaturalWaterFeature مائي_طبيعي محيط 243
+/o/office Workplace/Office مكان_عمل/مكتب مكتب 244
+/o/office_building Workplace/Office مكان_عمل/مكتب مبنى مكاتب 245
+/o/office_cubicles Workplace/Office مكان_عمل/مكتب مقصورات مكتبية 246
+/o/oilrig Industrial/Workshop صناعي/ورشة منصة نفط 247
+/o/operating_room MedicalFacility منشأة_طبية غرفة عمليات 248
+/o/orchard NaturalAgricultural زراعي_طبيعي بستان 249
+/o/orchestra_pit Cultural/Entertainment ثقافي/ترفيهي حفرة الأوركسترا 250
+/p/pagoda ReligiousVenue مكان_ديني معبد بوذي 251
+/p/palace IndoorHistoric تاريخي_داخلي قصر 252
+/p/pantry IndoorResidential سكني_داخلي مخزن 253
+/p/park NaturalOutdoor طبيعي_خارجي منتزه 254
+/p/parking_garage/indoor TransportHub/Urban محور_نقل/حضري مرآب سيارات/داخلي 255
+/p/parking_garage/outdoor TransportHub/Urban محور_نقل/حضري مرآب سيارات/خارجي 256
+/p/parking_lot TransportHub/Urban محور_نقل/حضري موقف سيارات 257
+/p/pasture NaturalAgricultural زراعي_طبيعي مرعى 258
+/p/patio OutdoorResidential سكني_خارجي فناء 259
+/p/pavilion OutdoorStructure هيكل_خارجي جناح 260
+/p/pet_shop Retail/Shop متجر/تجاري محل حيوانات أليفة 261
+/p/pharmacy Retail/Shop متجر/تجاري صيدلية 262
+/p/phone_booth OutdoorUrban حضري_خارجي كشك هاتف 263
+/p/physics_laboratory Workplace/Lab مكان_عمل/مختبر مختبر الفيزياء 264
+/p/picnic_area OutdoorRecreation ترفيه_خارجي منطقة تنزه 265
+/p/pier TransportHub/Water محور_نقل/مائي رصيف 266
+/p/pizzeria FoodDiningVenue مكان_طعام/شراب مطعم بيتزا 267
+/p/playground OutdoorRecreation ترفيه_خارجي ملعب 268
+/p/playroom IndoorResidential سكني_داخلي غرفة لعب 269
+/p/plaza OutdoorUrban حضري_خارجي ساحة 270
+/p/pond NaturalWaterFeature مائي_طبيعي بركة 271
+/p/porch OutdoorResidential سكني_خارجي رواق 272
+/p/promenade OutdoorUrban حضري_خارجي ممشى 273
+/p/pub/indoor FoodDiningVenue مكان_طعام/شراب حانة/داخلية 274
+/r/racecourse SportsVenue مكان_رياضي مضمار سباق 275
+/r/raceway SportsVenue مكان_رياضي حلبة سباق 276
+/r/raft VehicleWater مركبة_مائية طوافة 277
+/r/railroad_track OutdoorTransport طريق_خارجي سكة حديد 278
+/r/rainforest NaturalOutdoor طبيعي_خارجي غابة مطيرة 279
+/r/reception IndoorPublic عام_داخلي استقبال 280
+/r/recreation_room IndoorResidential سكني_داخلي غرفة استجمام 281
+/r/repair_shop Industrial/Workshop صناعي/ورشة ورشة تصليح 282
+/r/residential_neighborhood OutdoorUrban حضري_خارجي حي سكني 283
+/r/restaurant FoodDiningVenue مكان_طعام/شراب مطعم 284
+/r/restaurant_kitchen FoodDiningVenue مكان_طعام/شراب مطبخ مطعم 285
+/r/restaurant_patio FoodDiningVenue مكان_طعام/شراب فناء مطعم 286
+/r/rice_paddy NaturalAgricultural زراعي_طبيعي حقل أرز 287
+/r/river NaturalWaterFeature مائي_طبيعي نهر 288
+/r/rock_arch NaturalGeological جيولوجي_طبيعي قوس صخري 289
+/r/roof_garden OutdoorResidential سكني_خارجي حديقة على السطح 290
+/r/rope_bridge OutdoorInfrastructure بنية_تحتية_خارجية جسر حبال 291
+/r/ruin OutdoorHistoric تاريخي_خارجي أطلال 292
+/r/runway TransportHub/Airport محور_نقل/مطار مدرج طائرات 293
+/s/sandbox OutdoorRecreation ترفيه_خارجي صندوق رمل 294
+/s/sauna IndoorPublic عام_داخلي ساونا 295
+/s/schoolhouse EducationalFacility منشأة_تعليمية مدرسة 296
+/s/science_museum Cultural/Entertainment ثقافي/ترفيهي متحف العلوم 297
+/s/server_room Workplace/Office مكان_عمل/مكتب غرفة الخادم 298
+/s/shed OutdoorStructure هيكل_خارجي سقيفة 299
+/s/shoe_shop Retail/Shop متجر/تجاري محل أحذية 300
+/s/shopfront Retail/Shop متجر/تجاري واجهة محل 301
+/s/shopping_mall/indoor Retail/Shop متجر/تجاري مركز تسوق/داخلي 302
+/s/shower IndoorResidential سكني_داخلي دش 303
+/s/ski_resort SportsVenue مكان_رياضي منتجع تزلج 304
+/s/ski_slope SportsVenue مكان_رياضي منحدر تزلج 305
+/s/sky NaturalOutdoor طبيعي_خارجي سماء 306
+/s/skyscraper OutdoorUrban حضري_خارجي ناطحة سحاب 307
+/s/slum OutdoorUrban حضري_خارجي حي فقير 308
+/s/snowfield NaturalOutdoor طبيعي_خارجي حقل ثلج 309
+/s/soccer_field SportsVenue مكان_رياضي ملعب كرة القدم 310
+/s/stable OutdoorAgricultural زراعي_خارجي اسطبل 311
+/s/stadium/baseball SportsVenue مكان_رياضي ملعب/بيسبول 312
+/s/stadium/football SportsVenue مكان_رياضي ملعب/كرة القدم الأمريكية 313
+/s/stadium/soccer SportsVenue مكان_رياضي ملعب/كرة القدم 314
+/s/stage/indoor Cultural/Entertainment ثقافي/ترفيهي مسرح/داخلي 315
+/s/stage/outdoor Cultural/Entertainment ثقافي/ترفيهي مسرح/خارجي 316
+/s/staircase IndoorTransport نقل_داخلي درج 317
+/s/storage_room IndoorUtility خدمات_داخلية غرفة تخزين 318
+/s/street OutdoorUrban حضري_خارجي شارع 319
+/s/subway_station/platform TransportHub/Urban محور_نقل/حضري محطة مترو/رصيف 320
+/s/supermarket Retail/Shop متجر/تجاري سوبر ماركت 321
+/s/sushi_bar FoodDiningVenue مكان_طعام/شراب مطعم سوشي 322
+/s/swamp NaturalOutdoor طبيعي_خارجي مستنقع 323
+/s/swimming_hole NaturalWaterFeature مائي_طبيعي حفرة سباحة 324
+/s/swimming_pool/indoor SportsVenue مكان_رياضي مسبح/داخلي 325
+/s/swimming_pool/outdoor SportsVenue مكان_رياضي مسبح/خارجي 326
+/s/synagogue/outdoor ReligiousVenue مكان_ديني كنيس/خارجي 327
+/t/television_room IndoorResidential سكني_داخلي غرفة تلفزيون 328
+/t/television_studio Workplace/Office مكان_عمل/مكتب استوديو تلفزيون 329
+/t/temple/asia ReligiousVenue مكان_ديني معبد/آسيا 330
+/t/throne_room IndoorHistoric تاريخي_داخلي قاعة العرش 331
+/t/ticket_booth IndoorPublic عام_داخلي كشك تذاكر 332
+/t/topiary_garden NaturalOutdoor طبيعي_خارجي حديقة نباتية مشكلة 333
+/t/tower OutdoorStructure هيكل_خارجي برج 334
+/t/toyshop Retail/Shop متجر/تجاري محل ألعاب 335
+/t/train_interior VehicleInterior داخل_مركبة داخل القطار 336
+/t/train_station/platform TransportHub/Urban محور_نقل/حضري محطة قطار/رصيف 337
+/t/tree_farm NaturalAgricultural زراعي_طبيعي مزرعة أشجار 338
+/t/tree_house OutdoorStructure هيكل_خارجي بيت شجرة 339
+/t/trench OutdoorSite موقع_خارجي خندق 340
+/t/tundra NaturalOutdoor طبيعي_خارجي سهول التندرا 341
+/u/underwater/ocean_deep NaturalWaterFeature مائي_طبيعي تحت الماء/أعماق المحيط 342
+/u/utility_room IndoorResidential سكني_داخلي غرفة خدمات 343
+/v/valley NaturalGeological جيولوجي_طبيعي وادي 344
+/v/vegetable_garden NaturalAgricultural زراعي_طبيعي حديقة خضروات 345
+/v/veterinarians_office MedicalFacility منشأة_طبية عيادة بيطرية 346
+/v/viaduct OutdoorInfrastructure بنية_تحتية_خارجية قنطرة 347
+/v/village OutdoorUrban حضري_خارجي قرية 348
+/v/vineyard NaturalAgricultural زراعي_طبيعي كرم 349
+/v/volcano NaturalGeological جيولوجي_طبيعي بركان 350
+/v/volleyball_court/outdoor SportsVenue مكان_رياضي ملعب كرة طائرة/خارجي 351
+/w/waiting_room IndoorPublic عام_داخلي غرفة انتظار 352
+/w/water_park Cultural/Entertainment ثقافي/ترفيهي حديقة مائية 353
+/w/water_tower OutdoorInfrastructure بنية_تحتية_خارجية برج مياه 354
+/w/waterfall NaturalWaterFeature مائي_طبيعي شلال 355
+/w/watering_hole NaturalWaterFeature مائي_طبيعي مورد مياه 356
+/w/wave NaturalWaterFeature مائي_طبيعي موجة 357
+/w/wet_bar IndoorResidential سكني_داخلي حانة صغيرة 358
+/w/wheat_field NaturalAgricultural زراعي_طبيعي حقل قمح 359
+/w/wind_farm Industrial/Workshop صناعي/ورشة مزرعة رياح 360
+/w/windmill OutdoorAgricultural زراعي_خارجي طاحونة هوائية 361
+/y/yard OutdoorResidential سكني_خارجي ساحة 362
+/y/youth_hostel IndoorResidential سكني_داخلي بيت شباب 363
+/z/zen_garden NaturalOutdoor طبيعي_خارجي حديقة زين 364

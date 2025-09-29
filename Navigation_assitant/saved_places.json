@@ -1,0 +1,65 @@
+{
+  "home": {
+    "name": "Home",
+    "lat": 30.121865,
+    "lon": 31.610407,
+    "address_en": "5A, ضاحية النخيل ريزيدنس, El Shorouk City, The Sunrise, Cairo, 11837, Egypt",
+    "address_ar": "5A، ضاحية النخيل ريزيدنس، مدينة الشروق، الشروق، القاهرة‬، 11837، مصر"
+  },
+  "college": {
+    "name": "Shorouk Academy",
+    "lat": 30.11947,
+    "lon": 31.606824,
+    "address_en": "اكاديمية الشروق, Al Academia Street, El Shorouk City, May Fair, Cairo, 19511, Egypt",
+    "address_ar": "أكاديمية الشروق، شارع الأكاديمية، مدينة الشروق، مايفير، القاهرة‬، 19511، مصر"
+  },
+  "friend1": {
+    "name": "Friend 1 Home",
+    "lat": 30.121726,
+    "lon": 31.613261,
+    "address_en": "69, ضاحية النخيل ريزيدنس, El Shorouk City, The Sunrise, Cairo, 11837, Egypt",
+    "address_ar": "69، ضاحية النخيل ريزيدنس، مدينة الشروق، الشروق، القاهرة‬، 11837، مصر"
+  },
+  "restaurant": {
+    "name": "Gawharet Restaurant",
+    "lat": 30.118198,
+    "lon": 31.613521,
+    "address_en": "14, Gawharet Al Shorouk Compound, Madinaty, Cairo, 11837, Egypt",
+    "address_ar": "14، جوهرة الشروق، مدينتي، القاهرة‬، 11837، مصر"
+  },
+  "mall": {
+    "name": "Shorouk Mall",
+    "lat": 30.114285,
+    "lon": 31.606537,
+    "address_en": "Al Amal Street, Al Gawhara District, El Shorouk City, Madinaty, Cairo, 19511, Egypt",
+    "address_ar": "شارع الأمل، حي الجوهرة، مدينة الشروق، مدينتي، القاهرة‬، 19511، مصر"
+  },
+  "club": {
+    "name": "Shorouk Club",
+    "lat": 30.129608,
+    "lon": 31.61611,
+    "address_en": "Al Sherouq Road, Club District, El Shorouk City, May Fair, Cairo, 11837, Egypt",
+    "address_ar": "طريق الشروق، حي النادي، مدينة الشروق، مايفير، القاهرة‬، 11837، مصر"
+  },
+  "mosque": {
+    "name": "Al Rahma Mosque",
+    "lat": 30.127404,
+    "lon": 31.619967,
+    "address_en": "Al Rahma Mosque, Ibrahim Moustafa Street, Club District, El Shorouk City, May Fair, Cairo, 11837, Egypt",
+    "address_ar": "مسجد الرحمة، شارع إبراهيم مصطفى، حي النادي، مدينة الشروق، مايفير، القاهرة‬، 11837، مصر"
+  },
+  "gym": {
+    "name": "my-gym",
+    "lat": 30.1227725,
+    "lon": 31.6055469,
+    "address_en": "Al Kilany Villa, 30, ضاحية النخيل ريزيدنس, El Shorouk City, The Sunrise, Cairo, 11837, Egypt",
+    "address_ar": "Al Kilany Villa, 30, ضاحية النخيل ريزيدنس, مدينة الشروق, الشروق, القاهرة, 11837, مصر"
+  },
+  "work": {
+    "name": "BUE",
+    "lat": 30.1187457,
+    "lon": 31.6106136,
+    "address_en": "British University in Egypt, Al Horeya Road, Al Loaloah District, El Shorouk City, May Fair, Cairo, 19511, Egypt",
+    "address_ar": "الجامعة البريطانية فى مصر, طريق الحريه, حى اللؤلؤة, مدينة الشروق, ماي فير, القاهرة, 19511, مصر"
+  }
+}
