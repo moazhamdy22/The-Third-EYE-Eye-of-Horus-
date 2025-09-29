@@ -46,8 +46,8 @@ An **SOS emergency system** is also embedded, allowing users to send live locati
 ---
 
 ## 📂 Project Deliverables  
-- **Demo Video (YouTube/Drive):** [Insert Link Here]  
-- **Presentation (PowerPoint):** [Insert Link Here]  
+- **Video (Drive):**[https://drive.google.com/file/d/1HfFaEMft03BzChPcF6IbhlY6JQKTtadx/view?usp=drive_link]
+- **Technical report (pdf):** [Insert Link Here]  
 
 ---
 
