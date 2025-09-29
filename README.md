@@ -1,3 +1,27 @@
+# Project README
+
+## Overview
+Briefly describe your project here: what it does, why it exists, and who it's for.
+
+## Quick Links
+<!-- Replace the placeholder URLs below with your actual links -->
+- Demo video: [Watch the video](VIDEO_LINK_PLACEHOLDER)
+- Presentation (PowerPoint): [Download the slides](POWERPOINT_LINK_PLACEHOLDER)
+
+## Getting Started
+1. Prerequisites: List languages, runtimes, or tools required.
+2. Installation: Provide steps or commands to set up the project.
+3. Run: Explain how to start the app or service.
+
+## Project Structure
+Briefly outline key directories and files.
+
+## Contributing
+Explain how others can contribute (issues, PRs, coding standards).
+
+## License
+State your license here.
+
 # The Third EYE (Eye of Horus)
 
 Welcome to **The Third EYE (Eye of Horus)** project!
