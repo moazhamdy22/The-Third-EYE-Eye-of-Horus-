@@ -1,0 +1,47 @@
+Image Preprocessing (preprocess_image method):
+
+Converts image to grayscale
+Applies Gaussian blur with a 5x5 kernel
+Uses adaptive thresholding
+Applies morphological operations (dilation)
+Performs edge detection using Canny
+Document Detection (detect_document_edges and detect_document methods):
+
+Detects document edges using contours
+Filters contours based on area and other criteria
+Controls crop window size with constraints:
+Minimum area: 12% of frame
+Maximum area: 85% of frame
+Expected document area: 15-80% of frame
+Document Cropping (crop_document method):
+
+Takes detected contour points
+Calculates dimensions of the document
+Applies size constraints:
+If contour area > 70% of frame area, applies scaling
+Uses scale factor = sqrt(0.6 * frame_area / contour_area)
+Adds 10 pixels of padding
+Performs perspective transform to get a top-down view
+Image Enhancement (enhance_document_image method):
+
+For color images:
+Converts to LAB color space
+Applies CLAHE (Contrast Limited Adaptive Histogram Equalization)
+Sharpens the image
+Adjusts contrast (alpha = 1.2) and brightness (beta = 10)
+For grayscale:
+Applies CLAHE
+Uses bilateral filter for noise reduction
+Applies adaptive thresholding
+Then the processed image goes to either:
+
+The Qari model (primary OCR model)
+Tesseract OCR (fallback) with appropriate language settings
+The scaling factor is particularly handled in the crop_document method when the detected document area is too large (>70% of frame). It scales down the document to about 60% of the frame area to ensure proper processing while maintaining readability.
+
+This pipeline ensures that:
+
+The document is properly isolated from the background
+The perspective is corrected
+The image is enhanced for better text recognition
+The size is appropriate for the OCR models
