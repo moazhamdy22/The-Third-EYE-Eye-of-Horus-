@@ -1,8 +1,6 @@
 # The Third Eye – Intelligent Assistant System for the Blind and Visually Impaired  
 
-## Tested by Testination – ITI Software Testing Team 
-
-<img width="2048" height="1872" alt="2_1" src="https://github.com/user-attachments/assets/abacdd43-e8a5-4299-b875-f483379135f9" />
+<img width="1599" height="899" alt="Screenshot 2025-10-01 005117" src="https://github.com/user-attachments/assets/53846efb-0c3f-471a-94b6-333cadedd99d" />
 
 
 ## 📖 Project Overview  
