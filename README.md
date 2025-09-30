@@ -1,5 +1,9 @@
 # The Third Eye – Intelligent Assistant System for the Blind and Visually Impaired  
 
+#Tested by Testination – ITI Software Testing Team 
+<img width="2048" height="1872" alt="2_1" src="https://github.com/user-attachments/assets/abacdd43-e8a5-4299-b875-f483379135f9" />
+
+
 ## 📖 Project Overview  
 The **Third Eye** is a smart assistive system designed to empower blind and visually impaired (BVI) individuals with greater independence, safety, and confidence. Unlike traditional aids (e.g., white canes, guide dogs) or single-function apps, this project integrates multiple assistive features into **one cohesive wearable platform**.  
 
@@ -47,7 +51,7 @@ An **SOS emergency system** is also embedded, allowing users to send live locati
 
 ## 📂 Project Deliverables  
 - **Video (Drive):** [https://drive.google.com/file/d/1HfFaEMft03BzChPcF6IbhlY6JQKTtadx/view?usp=drive_link]
-- **Technical report (pdf):** [https://drive.google.com/file/d/1b6F4iylWSpjiwxLm1dkhdi-eh0lxOC4C/view?usp=sharing]  
+- **Technical report (pdf):** [https://drive.google.com/file/d/1SdvVq3mESt6CdYNT59YZJdks8-04ud7f/view?usp=sharing]  
 
 ---
 
